@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"billvert_blocker"
+	"version"			"1.0.0"
+	"up_date"			"06/27/2016"
+	"author_name"			"Cj2tech"
+	"author_url"			"www.dreadedgaming.com"
+	"info"				"A mod with which will changes the advert billboard for DarkRP"
+	"override"			"0"
+}
